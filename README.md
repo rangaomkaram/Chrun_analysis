@@ -1,14 +1,18 @@
 "# Telecom_Chrun_Analysis" 
-# exploratory data analysis using python
+
 ```
-install all packages using requirements.txt file
+pip install requirements.txt
 ```
-## Data Cleaning with Python
 
-## prediction the chrun customer for telecom industry.
+# Steps Involved in the Project
 
-## Creating the dashboard to better visulaization using the Business Intelligence Tool
+## 1. exploratory data analysis using python
 
-# POWER BI
+## 2. Data Cleaning with Python
 
- ## Telecom_Chrun_Reasons_Analytics
+## 3. prediction the chrun customer for telecom industry.
+
+## 4. Creating the dashboard to better visulaization using the Business Intelligence Tool
+### POWER BI
+
+ ## 5. Creating website / app for the project Telecom_Chrun_Reasons_Analytics
