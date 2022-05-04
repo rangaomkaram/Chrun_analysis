@@ -3,8 +3,7 @@ import pandas as pd
 class Data_loader:
 
     """ 
-    This class defined to retrive the data from source or traning
-
+    This class defined to retrive the data from source or training data
     """
     def __init__(self,file_object,logging_object):
         self.training_file = "telecom_Chrun_Analysis/TeleCom_Raw_Data/rawdata.csv"
