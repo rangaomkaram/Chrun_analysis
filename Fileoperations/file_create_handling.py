@@ -1,4 +1,3 @@
-from genericpath import isdir
 import os
 import pickle
 import shutil
@@ -46,9 +45,8 @@ class file_operations:
                                      "Exception in model_saved method of model_finding class")
             self.logging_message.log(self.file_object,
                                      "Model file "+model_filename+" could not be saved. Exicted models_saved method of model_finding class")
-
+                                     
             raise Exception()                         
-
 
 
 
