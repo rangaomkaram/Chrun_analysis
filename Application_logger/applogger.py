@@ -1,5 +1,4 @@
 from datetime import datetime
-from msilib.schema import Class
 
 class App_Logger:
     def __init__(self):
